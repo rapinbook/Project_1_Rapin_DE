@@ -24,3 +24,5 @@ By design schema in this way, there is no redundant data which will not be used 
 ➔ $ python create_tables.py <br>
 ➔ $ python etl.py
 
+## ER diagram
+![ER diagram](https://github.com/rapinbook/Project_1_Rapin_DE/blob/master/ER%20diagram/ER.JPG)
