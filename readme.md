@@ -15,10 +15,12 @@ or join only necessary data to be use in analysis step</p>
 <p>time - timestamps of records in songplays broken down into specific units,this table is used for gaining insight of time that music played</p>
 <p>In this schema analytics team is able to have essential data from songplays table.However, if data in songplays table is not sufficient, analytics team have an option to use data from songplays table to retrieve additional data from other dimension table.<br>
 By design schema in this way, there is no redundant data which will not be used are being retrieve from fact table<p>
-## Technology
-* Python: 3
-* PostgreSQL
+<h1> Technology </h1>
+<p>Python: 3</p>
+<p> PostgreSQL</p>
 
 ## How to run in terminal
-$ python create_tables.py
-$ python etl.py
+
+➔ $ python create_tables.py <br>
+➔ $ python etl.py
+
